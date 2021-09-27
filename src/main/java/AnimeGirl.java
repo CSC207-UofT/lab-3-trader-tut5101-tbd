@@ -13,6 +13,7 @@ public class AnimeGirl implements Domesticatable, Tradable{
         return 80;
     }
 
+
     @Override
     public String toString(){
         String id = super.toString();
