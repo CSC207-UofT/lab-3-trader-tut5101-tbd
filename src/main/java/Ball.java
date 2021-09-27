@@ -1,5 +1,5 @@
 
-public class Motorbike implements Tradable, Drivable{
+public class Ball implements Tradable, Drivable{
     @Override
     public int getPrice(){
         return 100;
