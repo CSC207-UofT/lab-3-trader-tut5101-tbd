@@ -97,8 +97,20 @@ public class Trader {
                 new Horse(),
                 new Horse(),
                 new Horse(),
+
+
+               
+                
+
+                new BadmintonRackets()
+
+                new Car(),
+                new Car()
+                
+
                 new Anaconda(),
                 new BadmintonRackets()
+
         );
 
         /* Below, we've created two Traders. Their money, inventory, and
